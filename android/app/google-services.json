@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "624341999953",
+    "firebase_url": "https://building-553ca.firebaseio.com",
+    "project_id": "building-553ca",
+    "storage_bucket": "building-553ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624341999953:android:05277cbfffbce44dacf370",
+        "android_client_info": {
+          "package_name": "com.example.building"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624341999953-so7rdtrlam29akace1m1vtbqdq3tnso4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.building",
+            "certificate_hash": "81ffab32bb84d94a96d244442222e5fbf170766b"
+          }
+        },
+        {
+          "client_id": "624341999953-kentgameusngidpumkvulf7l6cilfnnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxc7HjImzIE44skBTOdTKh6YP2Bd81xXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624341999953-kentgameusngidpumkvulf7l6cilfnnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
