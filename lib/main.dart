@@ -4,6 +4,7 @@ import './src/social_login.dart';
 import './src/social_share.dart';
 import './src/videopicker/video_picker.dart';
 import './src/image_picker.dart';
+import './src/database.dart';
 
 void main() {
   runApp(MyApp());
@@ -25,6 +26,12 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
+
+  @override
+  void initState() {
+    super.initState();
+  }
+
   Widget build(BuildContext context) {
     return Scaffold(
       body: buildWidget(),
@@ -32,6 +39,6 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   Widget buildWidget() {
-    return Container();
+    return Center(child: Text('Welcome'));
   }
 }
